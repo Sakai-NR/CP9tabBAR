@@ -1,0 +1,6 @@
+framework module Pods_cp9_7 {
+  umbrella header "Pods-cp9-7-umbrella.h"
+
+  export *
+  module * { export * }
+}
